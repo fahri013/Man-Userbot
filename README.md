@@ -65,7 +65,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 </details>
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center">(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahri013/Man-Userbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahri013/Man-Userbot)
 
 ## Updates & Support
 
